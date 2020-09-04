@@ -1,0 +1,10 @@
+One of the taglines for development with React is learn once, write anywhere, which is due to the existence of React Native. With React Native, you can write native mobile applications using JavaScript and React while using the same features as React for things such as state management. Building on the React knowledge that you've already gathered from this book, you'll start exploring React Native from this chapter on. As React and React Native share a lot of similarities, it's advised that you have another look at some of the previous chapters whenever you feel insecure about your React knowledge.
+
+In this chapter, you'll create a mobile application using React Native, which uses the same syntax and patterns that you've seen in the previous chapters. You'll set up basic routing, explore the differences between development for iOS and Android, and learn about styling React Native components with styled-components. Also, a toolchain called Expo will be used to run and deploy your React Native application.
+
+Creating a React Native project
+Routing for mobile applications
+Life cycles in React Native
+Styling components in React Native
+
+we will create a house listing application that shows an overview of the available houses with a detail page of every listing, with styled-components for styling and React Navigation for routing. The data is fetched from a mock API.
